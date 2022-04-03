@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1634856912 source:c:\users\franco\desktop\servidor\src\servidor.cpp
+	"Servidor.h"
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<cstdio>
+	<filesystem>
+
+1634867770 c:\users\franco\desktop\servidor\include\servidor.h
+	<stdio.h>
+	<winsock.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	<locale.h>
+	<ctime>
+	<fstream>
+
+1634867378 source:c:\users\franco\desktop\servidor\main.cpp
+	<stdio.h>
+	<winsock.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	"Servidor.h"
+	<cstring>
+
+1634909267 source:c:\users\franco\downloads\servidor\main.cpp
+	<stdio.h>
+	<winsock.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	"Servidor.h"
+	<cstring>
+
+1635805646 c:\users\franco\downloads\servidor\include\servidor.h
+	<stdio.h>
+	<winsock.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	<locale.h>
+	<ctime>
+	<fstream>
+
