@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1634913313 source:c:\users\unted\desktop\cliente\cliente.cpp
+	"Cliente.h"
+	<string.h>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1634917362 c:\users\unted\desktop\cliente\cliente.h
+	<winsock.h>
+	<iostream>
+	<string.h>
+	<fstream>
+
+1634913174 source:c:\users\unted\desktop\cliente\main.cpp
+	<winsock.h>
+	<iostream>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	<locale.h>
+
+1634913313 source:c:\users\franco\desktop\unla 2021\redes y comunicaciones\tp final\codigo\cliente\cliente\cliente.cpp
+	"Cliente.h"
+	<string.h>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1636054924 c:\users\franco\desktop\unla 2021\redes y comunicaciones\tp final\codigo\cliente\cliente\cliente.h
+	<winsock.h>
+	<iostream>
+	<string.h>
+	<fstream>
+
+1634913174 source:c:\users\franco\desktop\unla 2021\redes y comunicaciones\tp final\codigo\cliente\cliente\main.cpp
+	<winsock.h>
+	<iostream>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	<locale.h>
+
